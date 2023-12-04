@@ -33,9 +33,3 @@ Taking our best model, we also worked with backward elimination method to reduce
 We checked for the assumptions of Linearity, Independence(no autocorrelation), Homoscedasticity, Normality and Multicolinearity.
 
 Finally, we reported on a fit indicator for the test sample, using R2, RMSE and MAE, and the Prediction Error Rate of the model on the test and train sample, finding lower error rates in predictions for our trained model.
-
-, setting our alpha parameter to control collinearity and setting our predictor features.
-After that, we used back testing (or Time Series Cross-validation) and started making predictions
-We checked our model's accuracy with MAE, and saw that our prefictions were off by an average of 5 degrees, so tried to improve our model, this time using rolling computations, aiming to reduce the impact of those days that for some reason had odd temperature. We also added some more predictors to the model. We accomplished a light improvement on the model, but we also discovered that there were values hard to predict with the actual information that we have. We might need more detailed atmosferic data, such as wind conditions or parametric pressure, cloud cover, etc.
-
-Also, in another project found in this portfolio, we will try to achieve a more accurate model using XGBOOST or random forest(diffrerent ML algorythms)
