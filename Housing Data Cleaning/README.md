@@ -8,6 +8,5 @@ Our primary goal is to explore and clean our dataset, focusing on transforming o
 Once we extracted the data, it was uploaded to PostgreSQL with a simple Python script(see files). Then we selected the data we needed for our dashboard. 
 ### Data cleaning
 #### Main skills used for it:
-
-You can download the PowerBI Dashboard file from the folder of this project. It offers a user-friendly interface to interact with the data, allowing you to explore various facets of the company's state.
+CASTS, JOINS, ALTER TABLE, UPDATE, SUBSTRING, CHARINDEX(POSITION IN PGADMIN4), CTE, PARSNAME(SPLIT_PART IN PGADMIN4)
 
