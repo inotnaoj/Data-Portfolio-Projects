@@ -6,7 +6,7 @@ Our primary goal is to explore and clean our dataset, focusing on transforming o
 ## Key Features
 ### Data exploration with SQL
 Once we extracted the data, it was uploaded to PostgreSQL with a simple Python script(see files). Then we selected the data we needed for our dashboard. 
-### Data cleaning: steps done
+### Data cleaning:
 -Standarized our date feature format and added it as a new column to our data set. (**Skills used:** CAST, ALTER TABLE, UPDATE)
 
 -We treated and filled missing values from PropertyAddress feature, doing estimations based on another features, such as UniqueID and ParcelID. (**Skills used:** COALESCE(similar to a self join), JOIN, UPDATE)
