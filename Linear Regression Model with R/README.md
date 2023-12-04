@@ -1,4 +1,4 @@
-# Bike Users Prediction with Weather Data with R
+# Bike Users Prediction with Weather Data in R
 ### Skills used: Data Exploration, Data Cleaning, Time Series, ML, Linear Regression, Backward Elimination, Therorical Assumptions Check.
 ## Overview
 Welcome to this project, where we will explore and analyse weather data from Global Historical Climatology Network, collected since 1970. We will also try to predict tomorrow's temperature with ML.
