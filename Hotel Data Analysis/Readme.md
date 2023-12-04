@@ -1,4 +1,4 @@
-# Hotel Revenue Data Exploration
+# Hotel Revenue Data Exploration with SQL and PowerBI
 ## Overview
 Welcome to this project, where we will explore and analyse data from an hotel company. 
 ## Objectives
