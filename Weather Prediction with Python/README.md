@@ -6,7 +6,7 @@ Welcome to this project, where we will explore and analyse weather data from Glo
 Our primary goal is to create a ML model to predict temperature.
 ## Key Features
 ### Data exploration and cleaning with Python
-We explored the data types. We also looked for duplicated and missing data, and we worked on it in order to get our data ready for further analysis. For null values, we used ffill, wchich looks for NAN,, looks at the last nonNaN and uses it to fill. Logic behind this is that, if snow depth was 0 yesterday, it is more likely to be 0 aswell today.
+We explored the data types. We also looked for duplicated and missing data, and we worked on it in order to get our data ready for further analysis. For null values, we used ffill, which looks for NAN,, looks at the last nonNaN and uses it to fill. Logic behind this is that, if snow depth was 0 yesterday, it is more likely to be 0 aswell today.
 
 We also changed the index to date type, in order to work with it as a time series data set. We also ensured that we didn't have any gaps in our time serie.
 
