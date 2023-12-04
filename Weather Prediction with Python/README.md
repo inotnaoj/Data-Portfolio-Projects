@@ -1,4 +1,4 @@
-# Wather Prediction with ML in Python
+# Weather Prediction with ML in Python
 ### Skills used: Data Exploration, Data Cleaning, Time Series, Back testing, ML, Pandas and Sklearn
 ## Overview
 Welcome to this project, where we will explore and analyse weather data from Global Historical Climatology Network, collected since 1970. We will also try to predict tomorrow's temperature with ML.
